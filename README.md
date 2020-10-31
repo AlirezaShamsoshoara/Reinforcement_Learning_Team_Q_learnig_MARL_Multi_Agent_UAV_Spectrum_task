@@ -10,7 +10,7 @@ In the related, we study the problem of spectrum scarcity in a network of unmann
 ![Alt text](/image/system.JPG)
 
 ## Code
-This code is run and tested on Python 2.7 on both linux and windows machine with no issues. There is a config file in this directoy which shows all the configuration parameters such as transmit power, the grid size, number of steps, number of epochs, number of runs, etc. The number of UAVs in this study is assumed to be two. For more UAVs, the code should be altered. You can simply run the main.py file to run the code. It doesn't need any input argument, all you need to configure is available in the config.py.
+This code is run and tested on Python 2.7 on both linux and windows machine with no issues. There is a config file in this directoy which shows all the configuration parameters such as transmit power, the grid size, number of steps, number of epochs, number of runs, etc. The number of UAVs in this study is assumed to be two. For more UAVs, the code should be altered. You can simply run the main.py file to run the code. It doesn't need any input argument, all you need to configure is available in the config.py. All dependency files are available in the root directory of this repository.
 
 ```
 python main.py
@@ -32,6 +32,7 @@ python main.py
 ![Alt text](/image/table.JPG)
 
 ## Citation
+If you find the code or the article useful, please cite our paper using this BibTeX:
 ```
 @inproceedings{shamsoshoara2019solution,
   title={A solution for dynamic spectrum management in mission-critical UAV networks},
