@@ -15,6 +15,7 @@ This code is run and tested on Python 2.7 on both linux and windows machine with
 ```
 python main.py
 ```
+Some sample data from the simulation are stored and located in the /data/ directory for a gird size of 4x4 and 2 UAVs. 
 
 ## Required Packages
 * copy
