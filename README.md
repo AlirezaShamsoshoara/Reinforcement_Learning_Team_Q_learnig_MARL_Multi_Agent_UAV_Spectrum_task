@@ -1,4 +1,4 @@
-# A solution for dynamic spectrum management in mission-critical UAV networks using Team Q learning as a Multi-agent Reinforcement Learning Approach
+# A solution for Dynamic Spectrum Management in Mission-Critical UAV Networks using Team Q learning as a Multi-Agent Reinforcement Learning Approach
 
 ## Paper
 You can find the paper related to this code [here at IEEE](https://ieeexplore.ieee.org/abstract/document/8824917) or
