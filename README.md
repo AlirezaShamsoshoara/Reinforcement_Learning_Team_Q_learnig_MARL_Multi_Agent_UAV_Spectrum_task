@@ -27,9 +27,9 @@ python main.py
 
 
 ## Results
-![Alt text](/images/throughput.JPG)
-![Alt text](/images/movement.JPG)
-![Alt text](/images/table.JPG)
+![Alt text](/image/throughput.JPG)
+![Alt text](/image/movement.JPG)
+![Alt text](/image/table.JPG)
 
 ## Citation
 ```
