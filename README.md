@@ -10,9 +10,17 @@ In the related, we study the problem of spectrum scarcity in a network of unmann
 ![Alt text](/image/system_grid_1.png)
 
 ## Code
-
+This code is run and tested on Python 2.7 on both linux and windows machine with no issues. There is a config file in this directoy which shows all the configuration parameters such as transmit power, the grid size, number of steps, number of epochs, number of runs, etc. The number of UAVs in this study is assumed to be two. For more UAVs, the code should be altered.
 
 ## Required Packages
+* copy
+* time
+* match
+* Numpy
+* Scipy
+* Random
+* matplotlib.pyplot
+
 
 ## Results
 
