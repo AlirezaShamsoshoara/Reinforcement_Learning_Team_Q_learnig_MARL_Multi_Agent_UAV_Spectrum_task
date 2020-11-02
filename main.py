@@ -5,7 +5,7 @@ Created on March 14, 2019
           A solution for dynamic spectrum management in mission-critical UAV networks
           Paper: https://ieeexplore.ieee.org/abstract/document/8824917
           Arxiv: https://arxiv.org/abs/1904.07380
-@ Northern Arizona University
+@Northern Arizona University
 This project is developed and tested with Python 2.7 using pycharm on Windows 10
 """
 
