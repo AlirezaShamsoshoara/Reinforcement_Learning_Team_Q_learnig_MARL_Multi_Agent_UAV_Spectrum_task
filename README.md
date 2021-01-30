@@ -18,11 +18,11 @@ python main.py
 Some sample data from the simulation are stored and located in the /data/ directory for a grid size of 4x4 and 2 UAVs. 
 
 ## Required Packages
-* copy
 * time
+* copy
+* Scipy
 * match
 * Numpy
-* Scipy
 * Random
 * matplotlib.pyplot
 
